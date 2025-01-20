@@ -4,7 +4,7 @@ TIS (Technology Information System)
 In this Design Thinking Project our gruop choose to solve the traffic problem in UTM using an AI traffic management website,for improve UTM traffic. We prepare a report and video for our Design Thinking Project.
 
 HERE IS THE LINK for VIDEO : https://www.youtube.com/watch?v=QyZCmugC9l0
-
+or
 [Click here for the video](https://youtu.be/ibmbXXh5H2E?si=HaRhpVLN8OEPkVBp)
 
 Reflection on Design Thinking Project (VIDEO & REPORT):
