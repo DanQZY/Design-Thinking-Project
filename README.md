@@ -5,6 +5,8 @@ In this Design Thinking Project our gruop choose to solve the traffic problem in
 
 HERE IS THE LINK for VIDEO : https://www.youtube.com/watch?v=QyZCmugC9l0
 
+[Click here for the video](https://youtu.be/ibmbXXh5H2E?si=HaRhpVLN8OEPkVBp)
+
 Reflection on Design Thinking Project (VIDEO & REPORT):
 
 This project reinforced my passion for leveraging AI to solve real-world problems. Moving forward, I aim to explore ways to scale and implement the adaptive traffic management system, while also addressing ethical considerations like fairness and transparency. The experience has deepened my belief in the power of design thinking as a framework for innovation.
